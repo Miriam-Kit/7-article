@@ -1,5 +1,5 @@
 html {
-    background-color: rgb(183, 250, 250);
+    background-color: rgb(238, 255, 255);
 }
 
 .wrapper {
@@ -9,10 +9,13 @@ html {
 
 .site-header {
     background-color: rgb(195, 146, 240);
+    padding: 8px;
 }
 
 .site-main {
     background-color: rgb(255, 253, 106);
+    padding: 8px;
+    margin-top: 15px;
 }
 
 .article-section {
@@ -21,8 +24,18 @@ html {
 
 .callout {
     background-color: rgb(255, 185, 242);
+    padding: 8px;
+    margin-top: 15px;
+color: rgb(114, 5, 216);
 }
 
 .site-footer {
     background-color: aquamarine;
+    padding: 8px;
+    margin-top: 15px;
+}
+
+.border {
+    border-bottom: 3px solid black;
+    padding-bottom: 15px;
 }
